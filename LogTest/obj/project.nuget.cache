@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QLwyfLf/s+EEF032S4ERBJgZsk5sKMU8TGYi2jpx32QWBX6mlxSIufdIWi2mJIxitXG+SzoaNeq/JOhI8xWOYQ==",
+  "success": true,
+  "projectFilePath": "D:\\tomi\\Facultad\\3ero\\2do_cuatrim\\Taller_2\\tl2-tp2-2022-tomicon\\LogTest\\LogTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TomiC\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

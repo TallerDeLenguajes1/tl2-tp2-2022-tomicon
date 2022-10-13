@@ -1,0 +1,3 @@
+2022-10-13 12:07:45.8075|DEBUG|Program|ddddd
+2022-10-13 12:08:18.8504|INFO|Program|Hello world
+2022-10-13 12:08:18.8712|DEBUG|Program|ddddd
